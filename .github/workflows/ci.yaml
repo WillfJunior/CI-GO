@@ -28,4 +28,4 @@ jobs:
      with:
         context: .
         push: true
-        tags: user/fc-go-ci:latest
+        tags: willfjr86/fc-go-ci:latest
